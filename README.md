@@ -14,6 +14,9 @@
 - ⚡ Fun fact *I am Funny*
 
 <br>
+<br>
+<br>
+<br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/abderrahim-janboubi-631818223" target="blank">
@@ -63,9 +66,6 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/redis.svg" alt="redis" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Frontend frameworks:</h3>
@@ -91,4 +91,5 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JANBOUBI-ABDERRAHIM&show_icons=true&locale=en" alt="JANBOUBI-ABDERRAHIM" /></p>
+<h2 align="left"></h2>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JANBOUBI-ABDERRAHIM&show_icons=true&locale=en" alt="JANBOUBI-ABDERRAHIM" /></p>
