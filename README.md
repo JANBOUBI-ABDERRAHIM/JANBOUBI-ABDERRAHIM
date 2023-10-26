@@ -1,6 +1,6 @@
 [![MasterHead](https://arrayflaircom.files.wordpress.com/2021/06/bi-dashboard.gif)](https://JANBOUBI-ABDERRAHIM.io)
 <h1 align="center">Hi 👋, I'm ABDERRAHIM JANBOUBI</h1>
-<h3 align="center">Data Science student at Faculty of Sciences Semlalia Morocco, Marrakech</h3>
+<h3 align="center">Junior Data Scientist from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://dist.neo4j.com/wp-content/uploads/20220112171158/data-science-3.gif">
 
 <p align="left">
