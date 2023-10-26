@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=JANBOUBI-ABDERRAHIM&label=Profile%20views&color=0e75b6&style=flat" alt="JANBOUBI-ABDERRAHIM" />
 </p>
 
-- 🌱 I’m currently learning Data Science *Machine Learning, Deep learning, Business Intelligence ...*
+- 🌱 I’m a Junior Data Scientist *Machine Learning, Deep Learning, Business Intelligence ...*
 
 - 📫 How to reach me *abderrahimjanboubi@gmail.com*
 
